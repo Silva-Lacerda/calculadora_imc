@@ -2,6 +2,8 @@
 
 # Calculo de IMC
 
+---
+
 Este projeto é uma aplicação web simples para calculo de imc. A aplicação permite calcular o IMC, gerando um diagnostico simples sobre o resultado.
 ## Funcionalidades
 
@@ -50,3 +52,6 @@ Desenvolvido com curiosidade e esforço
 
 https://silva-lacerda.github.io/calculadora_imc/
 
+## Video de inspiração
+
+https://www.youtube.com/watch?v=UBYqkpsafyI&t=138s
