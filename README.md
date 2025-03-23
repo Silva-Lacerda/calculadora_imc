@@ -50,6 +50,3 @@ Desenvolvido com curiosidade e esforço
 
 https://silva-lacerda.github.io/calculadora_imc/
 
-## Video de inspiração
-
-https://www.youtube.com/watch?v=UBYqkpsafyI
